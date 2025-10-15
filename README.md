@@ -2,7 +2,7 @@
 # Knowledge Base Search Engine (RAG)
 
 A lightweight document search and question-answering system built with **FastAPI**, **Streamlit**, and **Gemini API**.  
-It uses **Retrieval-Augmented Generation (RAG)** — combining local document retrieval with an LLM for concise, context-based answers.
+It uses **Retrieval-Augmented Generation (RAG)** - combining local document retrieval with an LLM for concise, context-based answers.
 
 ---
 
