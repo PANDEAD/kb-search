@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faiss-cpu
+sentence-transformers
+pymupdf
+requests
+jinja2
+python-multipart
+streamlit
